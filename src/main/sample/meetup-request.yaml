@@ -1,4 +1,4 @@
-apiVersion: meetup.kubernetes.io/v1alpha1
+apiVersion: meetup.local.io/v1alpha1
 kind: MeetUpRequest
 metadata:
   name: FirstMeetUp
